@@ -1,5 +1,8 @@
+# Docker
 
-#heroku
+Docker needs the heroku.yml to run the Dockerfile content
+
+# Heroku
 
 -Creating an app on Heroku
 heroku apps:create node-api-docker-heroku 
